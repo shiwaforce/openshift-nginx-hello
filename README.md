@@ -10,7 +10,7 @@ Based on:
  - https://github.com/nginxinc/docker-nginx
 
 
-The images are uploaded to Docker Hub -- https://hub.docker.com/shiwaforce/openshift-nginx-hello.
+The images are uploaded to Docker Hub -- https://hub.docker.com/r/shiwaforce/openshift-nginx-hello.
 
 How to run:
 ```
