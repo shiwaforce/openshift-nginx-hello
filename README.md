@@ -5,12 +5,11 @@ About
 serves a simple page containing the container's hostname, IP address and port
 Running in OpenShift Container Platform, OpenShift Online, and OpenShift dedicated requires that your container be able to run as a random non-admin userid.
 
+The images are uploaded to Docker Hub -- https://hub.docker.com/r/shiwaforce/openshift-nginx-hello.
+
 Based on:
  - https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-hello
  - https://github.com/nginxinc/docker-nginx
-
-
-The images are uploaded to Docker Hub -- https://hub.docker.com/r/shiwaforce/openshift-nginx-hello.
 
 How to run:
 ```
